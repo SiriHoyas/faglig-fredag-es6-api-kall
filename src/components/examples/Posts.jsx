@@ -1,7 +1,5 @@
 import { CircularProgress, Grid, Paper, Typography } from "@mui/material";
 
-import useApi from "../fasit/useApi";
-
 function Posts() {
   const isLoading = true;
   const isError = false;
