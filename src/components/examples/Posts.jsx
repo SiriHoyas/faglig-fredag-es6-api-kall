@@ -1,7 +1,9 @@
 import { CircularProgress, Grid, Paper, Typography } from "@mui/material";
 
+// import useApi from "./hooks/useApi";
+
 function Posts() {
-  const isLoading = true;
+  const isLoading = false;
   const isError = false;
   const data = false;
 
